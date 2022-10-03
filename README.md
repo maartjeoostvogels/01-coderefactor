@@ -5,4 +5,4 @@ HTML-Git-CSS Code Refactor - Horiseon
 Website is deployed on https://maartjeoostvogels.github.io/bootcamphw01-coderefactor
 
 ## Screenshot
-Screenshot pending
+![Screenshot of Horiseon website](./docs/screenshot.png)
