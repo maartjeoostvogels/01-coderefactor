@@ -20,10 +20,12 @@ header h1 {
     font-size: 48px;
 }
 
+/* part of header text has different font colour */
 header h1 .seo {
     color: #d9dcd6;
 }
 
+/* nav is after header as standalone nav element selector would apply to all nav elements on site*/
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -50,6 +52,8 @@ p {
     font-size: 16px;
 }
 
+
+/* this class contains the main background image and sets the size, margin and position */
 .hero {
     height: 800px;
     width: 100%;
